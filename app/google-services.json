@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "374903095707",
+    "firebase_url": "https://onlinequizapp-eede2.firebaseio.com",
+    "project_id": "onlinequizapp-eede2",
+    "storage_bucket": "onlinequizapp-eede2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374903095707:android:9689e879a95688cf",
+        "android_client_info": {
+          "package_name": "projectx.onlinequiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374903095707-7cbr4ajk52nv88l9eipv1srd1oa0ilh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "projectx.onlinequiz",
+            "certificate_hash": "50247f48049afbd22895f99138aef21cda925ddd"
+          }
+        },
+        {
+          "client_id": "374903095707-s7kiu650vnvusr8khejdb9nkhs1h9ek2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8SAREHqp-_wwpSszWDYyOTEXvlGGAm8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374903095707-s7kiu650vnvusr8khejdb9nkhs1h9ek2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
